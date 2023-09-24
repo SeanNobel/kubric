@@ -20,7 +20,7 @@ from typing import Dict, Sequence, Tuple, Union
 
 import numpy as np
 # import OpenEXR
-import Imath
+# import Imath
 import sklearn.utils
 import trimesh
 
